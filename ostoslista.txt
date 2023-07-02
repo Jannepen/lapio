@@ -5,5 +5,5 @@ edi
 leipä
 ruoka
 juoma
-ostos
+juominen
 
