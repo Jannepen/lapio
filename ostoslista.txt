@@ -7,3 +7,4 @@ ruoka
 juoma
 juominen
 fanta
+kokis
